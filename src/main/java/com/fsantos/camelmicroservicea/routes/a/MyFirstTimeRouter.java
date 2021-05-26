@@ -2,9 +2,7 @@ package com.fsantos.camelmicroservicea.routes.a;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
-
-@Component
+//@Component
 public class MyFirstTimeRouter extends RouteBuilder{
 
     @Autowired

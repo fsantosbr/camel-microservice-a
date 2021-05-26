@@ -1,0 +1,3 @@
+texto exemplo de conteúdo dentro de um arquivo a ser movido.
+Segunda linha
+Fim do conteúdo deste arquivo
